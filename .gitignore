@@ -1,0 +1,5 @@
+*.autosave
+*.tar.gz
+*.pro
+*.pro.user
+SFML-2.5.1/*
